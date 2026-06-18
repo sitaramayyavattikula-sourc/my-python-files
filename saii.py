@@ -1,2 +1,1 @@
 print("sitaramayya")
-print("jai")
